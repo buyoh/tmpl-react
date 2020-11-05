@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Index 1`] = `
+<div>
+  <h1>
+    value = 
+    5
+  </h1>
+  <div>
+    <button
+      onClick={[Function]}
+    >
+      +1
+    </button>
+    <button
+      onClick={[Function]}
+    >
+      -1
+    </button>
+  </div>
+</div>
+`;
